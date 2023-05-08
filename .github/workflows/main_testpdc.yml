@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'testPDC'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4F302D5EA0849679C6740BAD5E2DA98 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37319B7F0DD14088B6E8B40C8D284C15 }}
           package: .
